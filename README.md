@@ -1,3 +1,14 @@
+---
+title: Expressions
+type: homework
+duration: "1:25"
+creator:
+    name: James Traver
+    city: Chicago
+competencies: Java, Expressions
+---
+
+
 # EXPRESSIONS HOMEWORK
 
 ![https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif)
