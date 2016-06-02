@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c76bef9a-b63e-4bb1-b710-2102b72cf67b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/expressions.java" afterPath="$PROJECT_DIR$/expressions.java" />
-    </list>
+    <list default="true" id="c76bef9a-b63e-4bb1-b710-2102b72cf67b" name="Default" comment="" />
     <ignored path="expressions-homework.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -223,16 +221,16 @@
       <updated>1464816696302</updated>
       <workItem from="1464816697677" duration="1439000" />
       <workItem from="1464838929800" duration="4700000" />
-      <workItem from="1464874888465" duration="2304000" />
+      <workItem from="1464874888465" duration="2395000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8443000" />
+    <option name="totallyTimeSpent" value="8534000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="92" y="23" width="993" height="494" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
